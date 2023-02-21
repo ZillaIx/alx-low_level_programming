@@ -1,9 +1,10 @@
 #include "main.h"
+
 /**
- * main - Main Function
- * print_alphabet_x10: prints 10x alphabets
- * Return: always 0;
+ * print_alphabet_x10 - Prints alphabets x10
+ * Return: returns zero at the end
  */
+
 void print_alphabet_x10(void)
 {
 	int i;
